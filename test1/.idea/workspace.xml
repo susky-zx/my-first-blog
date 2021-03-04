@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="704a7300-f9e8-4e1d-8bbd-5afa851ed396" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="1nE6F9q7Xb3ulEAyidmlnQsKZHx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysite" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="test1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="704a7300-f9e8-4e1d-8bbd-5afa851ed396" name="Default Changelist" comment="" />
+      <created>1611106635506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611106635506</updated>
+      <workItem from="1611106639068" duration="708000" />
+      <workItem from="1611108164875" duration="2743000" />
+      <workItem from="1611114332317" duration="2733000" />
+      <workItem from="1611145624150" duration="1292000" />
+      <workItem from="1611547312109" duration="714000" />
+      <workItem from="1611641224683" duration="4278000" />
+      <workItem from="1611810394943" duration="3036000" />
+      <workItem from="1611979187005" duration="254000" />
+      <workItem from="1612145126162" duration="1508000" />
+      <workItem from="1612230418477" duration="6469000" />
+      <workItem from="1612316107377" duration="5791000" />
+      <workItem from="1612589333432" duration="2228000" />
+      <workItem from="1612687758272" duration="843000" />
+      <workItem from="1612756713915" duration="1853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612235794788">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1612235794788" />
+    <state x="337" y="123" key="FileChooserDialogImpl" timestamp="1612688005144">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="123" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1612688005144" />
+    <state width="218" height="477" key="HiddenNamespacesPopup" timestamp="1612235816261">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="218" height="477" key="HiddenNamespacesPopup/0.0.1280.720@0.0.1280.720" timestamp="1612235816261" />
+    <state x="529" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1612687816481">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="529" y="229" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1612687816481" />
+    <state x="543" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1612320620719">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="543" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1612320620719" />
+  </component>
+</project>
